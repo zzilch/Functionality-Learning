@@ -1,0 +1,45 @@
+index,phrase,words
+0,cook,0
+1,cook kitchen,"0,25"
+2,cook meal,"0,26"
+3,eat,1
+4,eat meal,"1,26"
+5,have conversation,"2,21"
+6,lie,3
+7,lie bed,"3,16"
+8,lie sofa,"3,29"
+9,listen music,"4,27"
+10,look,5
+11,look computer,"5,20"
+12,look door,"5,23"
+13,look wall,"5,32"
+14,look window,"5,33"
+15,play chess,"6,19"
+16,play game,"6,24"
+17,play music,"6,27"
+18,rest,7
+19,rest bed,"7,16"
+20,rest chair,"7,18"
+21,rest sofa,"7,29"
+22,sit,8
+23,sit bed,"8,16"
+24,sit chair,"8,18"
+25,sit desk,"8,22"
+26,sit music,"8,27"
+27,sit sofa,"8,29"
+28,sit table,"8,30"
+29,stand,9
+30,stand cabinet,"9,17"
+31,stand desk,"9,22"
+32,stand door,"9,23"
+33,stand kitchen,"9,25"
+34,stand sink,"9,28"
+35,stand table,"9,30"
+36,talk,10
+37,use computer,"11,20"
+38,use kitchen,"11,25"
+39,wait,12
+40,wash sink,"13,28"
+41,watch,14
+42,watch television,"14,31"
+43,work,15
